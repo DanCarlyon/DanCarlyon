@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, i'm Dan. I'm a Developer currently working at an Ecommernce Agency called (https://www.space48.com)[Space48]
+Hello, i'm Dan. I'm a Developer currently working at an Ecommernce Agency called [https://www.space48.com](Space48)
 
 I work primarily with PHP however i've been taking a deeper dive into Node and Typescrypt. I also dabble with a bit of Java for Minecraft modding.
 
