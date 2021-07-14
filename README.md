@@ -1,21 +1,12 @@
 ### Hi there 👋
-Hello, i'm Dan. I'm a Developer currently working at an Ecommernce Agency called [Space48](https://www.space48.com)
+Hello, I'm Dan. I'm a Support Manager & Developer currently working at an Ecommernce Consultancy called [Space48](https://www.space48.com)
 
-I work primarily with PHP however i've been taking a deeper dive into Node and Typescrypt. I also dabble with a bit of Java for Minecraft modding.
+I work primarily with PHP however I've been taking a deeper dive into Node and Typescrypt. I also dabble with a bit of Java for Minecraft modding.
 
-I'm also a Twitch Affiliate and stream on a semi-regular basis.
+I'm a Twitch Affiliate and stream on a semi-regular basis.
 
-<!--
-**DanCarlyon/DanCarlyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Support Automation & improved alerting
+- 🌱 I’m currently learning Terraform & NodeJS
+- 💬 Ask me about my extended car warranty
+- 📫 How to reach me: [Twitter](https://twitter.com/DanCarlyon)
+- 😄 Pronouns: He/Him
