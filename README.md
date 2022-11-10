@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hello, I'm Dan Carlyon. I'm a Support Manager & Developer currently working for an Ecommernce Consultancy called [Space48](https://www.space48.com)
+Hello, I'm Dan Carlyon. I'm a Software Engineer.
 
-I work primarily with PHP and Javascript however I've been taking a deeper dive into NodeJS and Typescrypt. I also dabble with a bit of Java for Minecraft modding.
+I work primarily with PHP, NodeJS and Javascript however I've been taking a bit of a dive into Typescrypt. I also dabble with a bit of Java for Minecraft modding.
 
 I'm a Twitch Affiliate and a stream tool creator (Things like apps and bots for streamers)
 
